@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yagna Gangajaliya</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [JayAgro](https://jay-agro-engineering.onrender.com)
+- 🔭 I’m currently working on [music app](https://jay-agro-engineering.onrender.com)
 
 - 🌱 I’m currently learning **python, MERN, flutter, angular**
 
